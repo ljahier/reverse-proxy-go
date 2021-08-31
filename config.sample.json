@@ -1,0 +1,6 @@
+[
+    {
+        "name": "domain.tld",
+        "server_port": "http://::8081"
+    },
+]
